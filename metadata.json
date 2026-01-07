@@ -1,0 +1,8 @@
+{
+  "name": "OmniDive Hosting Tester",
+  "description": "A high-performance landing page generator designed to stress-test hosting environments by dynamically generating rich content, AI images, and data visualizations on any subject.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
